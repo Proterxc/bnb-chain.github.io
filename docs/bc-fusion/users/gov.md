@@ -1,11 +1,11 @@
-
+s
 # Governance with Tally
-
+s
 This document provides a guide on how to participate in governance on the BNB Smart Chain (BSC) using Tally. It
 covers the process of delegating voting power, creating proposals, voting on proposals, and executing proposals.
-
+s
 BNB Chain DAOs are created on Tally both for the mainnet and testnet.
-
+s
 * Testnet: [https://www.tally.xyz/gov/bnb-chain-testnet](https://www.tally.xyz/gov/bnb-chain-testnet)
 * Mainnet: [https://www.tally.xyz/gov/bnb-chain](https://www.tally.xyz/gov/bnb-chain)
 
